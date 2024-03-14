@@ -6,9 +6,9 @@ Each folder will have a README with a description/general idea of how the progra
 Each folder might not have a developed program, but be merely an idea for development.
 
 
-Coding conventions for pushing:
+Coding conventions for pushing:\
 Commit Naming
-Since branches is eventually deleted, we also conduct good naming of our commits.
+Since branches is eventually deleted, we also conduct good naming of our commits.\
 The naming convention we use is as follows:
 
 FEATURE: {NAME OR DESC}\
