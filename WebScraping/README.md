@@ -1,5 +1,5 @@
 # Web Scraping
-Build a web scraper that extracts weather forecast data from a weather website (e.g., weather.com) for a given location.\
+Build a web scraper that extracts weather forecast data from a weather website for a given location.\
 The scraper should retrieve:
 
 Tasks to create:\
