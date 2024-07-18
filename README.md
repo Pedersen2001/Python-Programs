@@ -7,9 +7,7 @@ Each folder might not have a developed program, but be merely an idea for develo
 
 
 Coding conventions for pushing:\
-Commit Naming
-Since branches is eventually deleted, we also conduct good naming of our commits.\
-The naming convention we use is as follows:
+The naming convention used is as follows:
 
 FEATURE: {NAME OR DESC}\
 BUGFIX: {NAME OR DESC}\
